@@ -1,0 +1,8 @@
+.userItem{
+    color: #3eadff;
+}
+
+.userItem:hover{
+    cursor: pointer;
+    color: #29cd74;
+}
