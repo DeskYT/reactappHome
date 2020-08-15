@@ -27,7 +27,6 @@ class UserComment extends Component {
         return dd + '.' + mm + '.' + yy;
     }
     render() {
-        const styles = this.isSelected ? {bgColor: 'rgb(0,0,255)'}: {bgColor: 'aqua'};
         return(
             <div className="commentContainer">
                 <div className="avatarContainer">
